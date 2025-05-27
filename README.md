@@ -8,19 +8,19 @@
 - 💻 1+ years of experience in frontend development
 - 🚀 Passionate about building clean, user-centric web applications
 
----
+----
 
 ### 📚 Currently Learning
 - Advanced React patterns
 - Software architecture principles
 - Cloud computing fundamentals
 
----
+----
 
 ### ⚡ Fun Facts
 - First line of code I wrote: "Hello World" in C
   
----
+----
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/220997658184122370) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vidor.con) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-vidor-5561731a0/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/tapita_gh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@tapinas548) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miguelvidordeoliveira@gmail.com) 
