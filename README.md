@@ -4,8 +4,8 @@
 
 🌎 **About Me**  
 - 🔭 Currently working on **[PypSysteam](https://github.com/PypSystem)**
-- 📚 5th semester Computer Science student @ [URI Santo Ângelo]
-- 💻 1+ years of experience in frontend development
+- 📚 5th semester Computer Science student [URI Santo Ângelo]
+- 💻 2+ years of experience in frontend development
 - 🚀 Passionate about building clean, user-centric web applications
 
 ----
